@@ -1,0 +1,1 @@
+I developed a mobile app using Android Studio and Kotlin to assist individuals with hearing impairments. It converts music into vibrations, allowing users to "feel" the rhythm. The app accesses the device's music library, it generates vibrations based on frequencies using a visualizer.
