@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicToVibrationApp</string>
+    <string name="logo_desc">Logo of the app</string>
+    <string name="sound_wave_desc">Sound wave animation</string>
+    <string name="play_pause_button">Play/Pause Button</string>
+</resources>
